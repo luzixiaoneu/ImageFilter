@@ -66,5 +66,16 @@ All the requirements from the assignment description have been delivered.
 Example Output:
 Original Picture: Harley Davidson 1200
 
-![ScreenShot](/src/48.jpg)
+![Image](/res/48.jpg?raw=true)
+  
+After Applying mosaic and greyscale
+  
+![Image](/48-mosaic-grey.jpg?raw=true)
+  
+After Applying pixelation
+  
+![Image](/p48.jpg?raw=true)
+  
+After Cross-stitching and stitch all the tire to red:
+![Image](/res/example-part3.jpg?raw=true)
 
