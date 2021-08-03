@@ -1,19 +1,19 @@
 1. About/Overview
 This project is built on project 3 with 3 more additional functions:
-1. Mosiaic filter
-2. Pixelation filter
-3. Cross Stitch pattern
+  1. Mosiaic filter
+  2. Pixelation filter
+  3. Cross Stitch pattern
 
 2. List of Features
 Currently this program supports the following features:
-1. Blur image
-2. sharpening image
-3. Apply grey scale to the image
-4. Apply sepia tone to the image
-5. Reduce the color density to a specific color number per channel.
-6. Applying image mosaic
-7. Applying image pixelation
-8. Generate corss-stitch pattern
+  1. Blur image
+  2. sharpening image
+  3. Apply grey scale to the image
+  4. Apply sepia tone to the image
+  5. Reduce the color density to a specific color number per channel.
+  6. Applying image mosaic
+  7. Applying image pixelation
+  8. Generate corss-stitch pattern
 
 3. How to run
 Download the ImageProcesser.jar file to your local disk. Also, download the dmc.csv file to the same directory as the ImageProcesser.jar file.
@@ -29,8 +29,8 @@ After these steps, start the program by running the jar file or using command ja
 The dmc.csv file and command.txt file are required to run this program properly. Please do not modify the dmc.csv file.
 You must load the image first before you can apply any operations in the following list (2-9)
 For the command, the file name has to be command.txt this program currently support the following commands in the following syntax:
-1. load image:       load imagName
-2. save image:       save imageName
+1. load image:       load <imagName>
+2. save image:       save <imageName>
 3. blur image:       blur                  ****No additional argument****
 4. sharpening        image: sharpening     ****No additional argument****
 5. greyscale image:  greyscale             ****No additional argument****
@@ -66,5 +66,5 @@ All the requirements from the assignment description have been delivered.
 Example Output:
 Original Picture: Harley Davidson 1200
 
-![](src/48.jpg)
+![ScreenShot](/src/48.jpg)
 
