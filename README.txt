@@ -66,4 +66,4 @@ All the requirements from the assignment description have been delivered.
 Example Output:
 Original Picture: Harley Davidson 1200
 
-![alt text](/src/48.jpg)
+<img src="src/48.jpg">
