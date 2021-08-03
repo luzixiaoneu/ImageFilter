@@ -1,0 +1,4 @@
+load 48.jpg
+sepiatone
+save sepia48.jpg
+pattern newfile.txt

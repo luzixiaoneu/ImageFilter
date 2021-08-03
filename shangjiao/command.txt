@@ -1,0 +1,2 @@
+load 48.jpg
+pattern 48pattern.txt
