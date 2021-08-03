@@ -66,4 +66,4 @@ All the requirements from the assignment description have been delivered.
 Example Output:
 Original Picture: Harley Davidson 1200
 
-![alt text](https://github.com/luzixiaoneu/ImageFilter/blob/master/res/48.jpg)
+![alt text](/src/48.jpg)
