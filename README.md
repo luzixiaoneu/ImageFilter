@@ -77,5 +77,5 @@ After Applying pixelation
 ![Image](/p48.jpg?raw=true)
   
 After Cross-stitching and stitch all the tire to red:
-![Image](/src/example-part3.jpg?raw=true)
+![Image](/res/example-part3.png?raw=true)
 
