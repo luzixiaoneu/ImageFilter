@@ -66,5 +66,5 @@ All the requirements from the assignment description have been delivered.
 Example Output:
 Original Picture: Harley Davidson 1200
 
-![example-part3](https://user-images.githubusercontent.com/71152764/127963484-29219bc6-a774-41fb-abda-bd7cfd22f50a.png)
+![](src/48.jpg)
 
