@@ -1,2 +1,0 @@
-load 48.jpg
-pattern ./tmp/417.txt
