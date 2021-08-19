@@ -68,14 +68,19 @@ Example Output:
 
 ![Image](/res/48.jpg?raw=true)
   
-After Applying mosaic and greyscale
+After Applying Sepia Tone and pixelation
   
-![Image](/48-mosaic-grey.jpg?raw=true)
+![Image](/res/48-sepiaTone-Pixelation.jpg?raw=true)
   
-After Applying pixelation
+After Applying grey scale and sharpening
+  ![Image](/res/new48.jpg?raw=true)
   
 ![Image](/p48.jpg?raw=true)
   
 After Cross-stitching and stitch all the tire to red:
 ![Image](/res/example-part3.png?raw=true)
+  
+  
+  
+  More examples can be found under the res folder
 
