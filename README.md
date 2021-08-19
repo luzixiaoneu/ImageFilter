@@ -75,7 +75,8 @@ After Applying Sepia Tone and pixelation
 After Applying grey scale and sharpening
   ![Image](/res/new48.jpg?raw=true)
   
-![Image](/p48.jpg?raw=true)
+After Applying grey scale and Mosaic
+  ![Image](/res/48-mosaic-grey.jpg?raw=true)
   
 After Cross-stitching and stitch all the tire to red:
 ![Image](/res/example-part3.png?raw=true)
