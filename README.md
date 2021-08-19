@@ -1,8 +1,5 @@
 1. About/Overview
-  This project is built on project 3 with 3 more additional functions:
-    1. Mosiaic filter
-    2. Pixelation filter
-    3. Cross Stitch pattern
+  
 
 2. List of Features
     Currently this program supports the following features:
@@ -13,7 +10,7 @@
       5. Reduce the color density to a specific color number per channel.
       6. Applying image mosaic
       7. Applying image pixelation
-      8. Generate corss-stitch pattern
+      8. Generate corss-stitch pattern(in picture or txt file format)
 
 3. How to run
       Download the ImageProcesser.jar file to your local disk. Also, download the dmc.csv file to the same directory as the ImageProcesser.jar file.
@@ -81,7 +78,11 @@ After Applying grey scale and Mosaic
 After Cross-stitching and stitch all the tire to red:
 ![Image](/res/example-part3.png?raw=true)
   
+Original Picture Starbucks
+  ![Image](/res/starbucks.jpg?raw=true)
   
+Generate the cross stitch pattern in txt file:
+  ![Image](/res/sb_pattern.png?raw=true)
   
   More examples can be found under the res folder
 
